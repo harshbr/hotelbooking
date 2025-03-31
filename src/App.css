@@ -1,0 +1,25 @@
+.onbaorddiv {
+  height: 90vh;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.mainimg img {
+  height: 50vh;
+}
+@media screen and (max-width: 600px) {
+  .onbaorddiv {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .mainimg img {
+    height: 30vh;
+  }
+}
+@media screen and (max-width: 900px) {
+  .onbaorddiv {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+}
