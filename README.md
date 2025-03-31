@@ -6,8 +6,6 @@
 
 ![Screenshot 3](images/booking3.png)
 
-![Screenshot 4](images/booking4.png)
-
 ![Screenshot 5](images/booking5.png)
 
 ![Screenshot 6](images/booking6.png)
